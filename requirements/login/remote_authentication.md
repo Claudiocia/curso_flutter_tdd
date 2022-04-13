@@ -19,5 +19,5 @@
 1. ✅ Sistema retorna uma mensagem de erro inesperado
 
 > ## Exceção - Credenciais inválidas - 401
-1. Sistema retorna uma mensagem de erro informando que as credenciais estão erradas
+1. ✅ Sistema retorna uma mensagem de erro informando que as credenciais estão erradas
 
